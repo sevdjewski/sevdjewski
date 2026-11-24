@@ -1,6 +1,6 @@
 # Hi, I'm Sevdegül 👋
 
-I'm an Artificial Intelligence graduate from Johannes Kepler University Linz, based in Vienna. I'm interested in applied AI and technical consulting, especially projects where I can work with users to understand a problem, build a prototype, and measure how well it works.
+I'm a student of Artificial Intelligence from Johannes Kepler University Linz, based in Vienna. I'm interested in applied AI and technical consulting, especially projects where I can work with users to understand a problem, build a prototype, and measure how well it works.
 
 ## Selected projects
 
